@@ -1,0 +1,4 @@
+C:\Users\336967\Desktop\Aula-de-Estrutura-de-Dados-main\ATIVIDADES\ARVORES\Arvores\obj\Debug\net10.0\Arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\336967\Desktop\Aula-de-Estrutura-de-Dados-main\ATIVIDADES\ARVORES\Arvores\obj\Debug\net10.0\Arvores.AssemblyInfoInputs.cache
+C:\Users\336967\Desktop\Aula-de-Estrutura-de-Dados-main\ATIVIDADES\ARVORES\Arvores\obj\Debug\net10.0\Arvores.AssemblyInfo.cs
+C:\Users\336967\Desktop\Aula-de-Estrutura-de-Dados-main\ATIVIDADES\ARVORES\Arvores\obj\Debug\net10.0\Arvores.csproj.CoreCompileInputs.cache

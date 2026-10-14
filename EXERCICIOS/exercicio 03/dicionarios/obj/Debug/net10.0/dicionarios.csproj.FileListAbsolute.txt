@@ -1,0 +1,15 @@
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.AssemblyInfoInputs.cache
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.AssemblyInfo.cs
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.sourcelink.json
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\bin\Debug\net10.0\dicionarios.exe
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\bin\Debug\net10.0\dicionarios.deps.json
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\bin\Debug\net10.0\dicionarios.runtimeconfig.json
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\bin\Debug\net10.0\dicionarios.dll
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\bin\Debug\net10.0\dicionarios.pdb
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.dll
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\refint\dicionarios.dll
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.pdb
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\dicionarios.genruntimeconfig.cache
+C:\Users\336967\Desktop\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 03\dicionarios\obj\Debug\net10.0\ref\dicionarios.dll

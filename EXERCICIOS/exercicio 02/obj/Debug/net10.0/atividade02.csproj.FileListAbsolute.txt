@@ -1,0 +1,14 @@
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\atividade02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\atividade02.AssemblyInfoInputs.cache
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\atividade02.AssemblyInfo.cs
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\atividade02.csproj.CoreCompileInputs.cache
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\bin\Debug\net10.0\atividade02.exe
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\bin\Debug\net10.0\atividade02.deps.json
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\bin\Debug\net10.0\atividade02.runtimeconfig.json
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\bin\Debug\net10.0\atividade02.dll
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\bin\Debug\net10.0\atividade02.pdb
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\atividade02.dll
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\refint\atividade02.dll
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\atividade02.pdb
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\atividade02.genruntimeconfig.cache
+C:\Users\gak\Downloads\Aulas-de-Estrutura-de-dados-26-master\EXERCICIOS\exercicio 01\obj\Debug\net10.0\ref\atividade02.dll
